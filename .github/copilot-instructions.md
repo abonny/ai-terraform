@@ -2,3 +2,6 @@
 Use snake case when naming resources and variables in Terraform.
 Follow best practices for Terraform module development.
 Use locals for derived values.
+#This prompt fails, still have "this" everywhere.
+Create unique names for resources.
+Make resource names descriptive and consistent.
